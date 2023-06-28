@@ -10,6 +10,3 @@ import sys
 
 def gradescope_test():
     return 42
-
-
-# sys.version_info
